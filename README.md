@@ -12,12 +12,14 @@ Visite the company [website](https://bdpnnetwork.org/) for more information.
 
 ## Goal
 **Determine which disaster zones that DON’T have organization but have higher risk for natural disasters and provide recommendations to help increase disaster preparedness.**
+- **Github file location: BDPNN Client Final Deliverable.pptx**
 
 ## Project Walkthrough
 ### Deliverable #1: Merge mailing list and network member database
 - Data: generated from tabling events (mailchimp and io group)
 - Survey: collected from network members to better gather demographic information
 - **Github file location: survey analysis and demographic analysis**
+  - *Note that data is not uploaded for security reason*
 
 ### Deliverable #2: Explore neighborhood groups without organization
 - Explore disaster neighborhood groups overlayed with
@@ -25,6 +27,7 @@ Visite the company [website](https://bdpnnetwork.org/) for more information.
   - Would be willing to set up a neighborhood group they don’t know how to start
 - Merge neighborhood organization data over other databases
 - **Github file location: demographic analysis**
+  - *Note that data is not uploaded for security reason*
 
 ### Deliverable #3: Disaster Analysis
 - Mudslides, floods, wildfires, tsunami zones
@@ -38,3 +41,4 @@ Visite the company [website](https://bdpnnetwork.org/) for more information.
 - Look at public/historical natural disasters in the region and develop a predictive measure for the risk of that region → look at member data 
 - Figure out locations where you want to target based on regions that are more prone to disaster and have fewer resources from BDPNN
 - **Github file location: heuristic calculation**
+  - *Note that data is not uploaded for security reason*

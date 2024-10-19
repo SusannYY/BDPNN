@@ -1,0 +1,5 @@
+tensorflow
+tensorflow_hub
+tensorflow
+tensorflow_hub
+geopy==2.3.0

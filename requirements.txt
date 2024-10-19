@@ -1,0 +1,6 @@
+tensorflow
+tensorflow_hub
+tensorflow
+tensorflow_hub
+geopy==2.3.0
+yfinance==0.1.64
